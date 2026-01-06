@@ -4,15 +4,18 @@ LeaveFlow is a modern employee leave management system built with Flutter & Fire
 
 
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+## 👨‍💼 Employee
+	•	Apply for leave with reason and date range
+	•	Track leave status (Pending / Approved / Rejected)
+	•	View admin comments on rejected leaves
+	•	Delete pending leave requests
+	•	Receive real-time updates
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Admin
+	•	View all employee leave requests
+	•	Approve or reject leaves with comments
+	•	Leave analytics dashboard
+	•	Monthly leave tracking
+	•	User management (admin / employee roles)
