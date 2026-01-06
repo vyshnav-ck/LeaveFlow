@@ -1,6 +1,8 @@
-# Leave_Flow
+🗓️ LeaveFlow
 
-A new Flutter project.
+LeaveFlow is a modern employee leave management system built with Flutter & Firebase, designed to replace manual processes and Google Forms with a clean, scalable, and role-based mobile solution.
+
+
 
 ## Getting Started
 
